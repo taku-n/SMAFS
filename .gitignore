@@ -1,0 +1,12 @@
+# Vim
+*.swp
+
+# MQL5
+*.ex5
+
+# F#
+*.sln
+*.fsproj
+.vs/
+*/bin/
+*/obj/
