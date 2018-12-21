@@ -5,6 +5,7 @@
 *.ex5
 
 # F#
+*.dll
 *.sln
 *.fsproj
 .vs/
